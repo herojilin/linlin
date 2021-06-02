@@ -1,7 +1,16 @@
 kieieop
 dev,dev
+<<<<<<< HEAD
 hihi,fecth
 
 addddddddddd
 rebase
 
+addddddddddd  2222
+rebase         33333
+ennnnnnnnnnnnn 44444444444
+feature !!!!!,88888888
+devvvvvvvvvv      se 
+buneeeeeeeeee            sere
+shiaaaaaaaaaa
+master!
